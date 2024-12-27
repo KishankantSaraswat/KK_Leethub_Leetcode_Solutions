@@ -100,12 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0198-house-robber](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0198-house-robber) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0173-binary-search-tree-iterator](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
