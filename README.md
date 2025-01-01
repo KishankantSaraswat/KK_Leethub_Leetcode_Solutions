@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0043-multiply-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0043-multiply-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
