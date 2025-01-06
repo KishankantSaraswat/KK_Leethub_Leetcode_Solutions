@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0135-candy](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0135-candy) |
 ## Divide and Conquer
 |  |
 | ------- |
