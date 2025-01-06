@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0135-candy](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0173-binary-search-tree-iterator](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0209-minimum-size-subarray-sum](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0209-minimum-size-subarray-sum](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
