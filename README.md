@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0768-partition-labels](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0952-word-subsets](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1502-construct-k-palindrome-strings](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Sorting
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0768-partition-labels) |
+| [1502-construct-k-palindrome-strings](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
