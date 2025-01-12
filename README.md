@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Divide and Conquer
 |  |
 | ------- |
