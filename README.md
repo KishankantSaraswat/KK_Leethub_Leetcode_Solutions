@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0862-find-and-replace-in-string](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0862-find-and-replace-in-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Array
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0862-find-and-replace-in-string](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0862-find-and-replace-in-string) |
 | [0952-word-subsets](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0043-multiply-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
 |  |
 | ------- |
