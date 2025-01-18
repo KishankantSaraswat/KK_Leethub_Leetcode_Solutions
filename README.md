@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-find-and-replace-in-string](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0862-find-and-replace-in-string) |
 | [0952-word-subsets](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0952-word-subsets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0036-valid-sudoku) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Math
 |  |
@@ -311,4 +314,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
