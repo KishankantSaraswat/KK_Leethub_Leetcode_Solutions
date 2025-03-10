@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Matrix
 |  |
 | ------- |
