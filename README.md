@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 ## Iterator
 |  |
 | ------- |
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1558-course-schedule-iv](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
