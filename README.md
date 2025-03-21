@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0768-partition-labels) |
 | [0862-find-and-replace-in-string](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0862-find-and-replace-in-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0496-next-greater-element-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0862-find-and-replace-in-string](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0862-find-and-replace-in-string) |
 | [0952-word-subsets](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0952-word-subsets) |
@@ -242,11 +244,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
