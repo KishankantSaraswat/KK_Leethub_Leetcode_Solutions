@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0043-multiply-strings) |
+| [0371-sum-of-two-integers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
 |  |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
