@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0862-find-and-replace-in-string](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0862-find-and-replace-in-string) |
 | [0952-word-subsets](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0952-word-subsets) |
@@ -245,12 +246,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
