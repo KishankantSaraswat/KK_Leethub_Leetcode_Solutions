@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0198-house-robber) |
+| [2262-solving-questions-with-brainpower](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
 ## Tree
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2262-solving-questions-with-brainpower](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2465-shifting-letters-ii) |
