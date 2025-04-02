@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search Tree
 |  |
