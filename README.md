@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0371-sum-of-two-integers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Simulation
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -417,4 +420,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
