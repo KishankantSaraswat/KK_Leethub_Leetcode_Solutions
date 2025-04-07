@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 ## Linked List
