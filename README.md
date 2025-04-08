@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Search Tree
 |  |
 | ------- |
