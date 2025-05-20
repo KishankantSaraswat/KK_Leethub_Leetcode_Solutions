@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0118-pascals-triangle) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
