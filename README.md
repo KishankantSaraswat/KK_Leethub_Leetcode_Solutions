@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [1396-count-servers-that-communicate](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1502-construct-k-palindrome-strings) |
