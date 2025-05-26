@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0409-longest-palindrome) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0189-rotate-array) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
