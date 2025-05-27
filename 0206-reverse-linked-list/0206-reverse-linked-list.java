@@ -10,10 +10,21 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-       if(head==null || head.next==null) return head;
-       ListNode k=reverseList(head.next);
-       head.next.next=head;
-       head.next=null;
-       return k;
+        // Brute Force
+        Stack<Integer>st=new Stack<>();
+        ListNode temp=head;
+        while(temp!=null){
+            st.push(temp.val);
+            temp=temp.next;
+        }
+        temp=head;
+        while(temp!=null){
+            temp.val=st.pop();
+            temp=temp.next;
+        }
+        return head;
+        
+
+        
     }
 }
