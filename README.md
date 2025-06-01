@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0768-partition-labels) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [2262-solving-questions-with-brainpower](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
