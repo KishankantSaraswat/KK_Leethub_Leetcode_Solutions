@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0409-longest-palindrome) |
+| [0491-non-decreasing-subsequences](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
+| [0491-non-decreasing-subsequences](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
+| [0491-non-decreasing-subsequences](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
