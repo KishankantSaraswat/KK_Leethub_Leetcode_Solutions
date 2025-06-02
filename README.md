@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KishankantSaraswat/KK_Leethub_Leetcode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
